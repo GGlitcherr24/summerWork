@@ -1,2 +1,3 @@
 cd project || 
-python manage.py runserver
+pip install -r requirements.txt ||
+python .\project\manage.py runserver
